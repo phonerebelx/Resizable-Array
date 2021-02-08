@@ -20,6 +20,6 @@ First of all get started by cloning this repository on your machine.
 max : this return the maximum number in the array
 
 min: return the minimum number in the Array
-git clone  than
+git clone https://github.com/phonerebelx/Resizable-Array/blob/main/Ressizable_Array.py  than
 
 Run resizable_array.py
