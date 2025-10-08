@@ -172,4 +172,5 @@ print(a.minElement())
 
 
 
-#This project is done by Syed Abdul Ali and Muhammad Zeeshan Khan
+
+#This project is done by Syed Abdul Ali
